@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$USER_HOME$/apps/sbt/sbt-0.13.11/bin/sbt-launch.jar" />
+    <option name="customVMPath" value="/usr/lib/jvm/default" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="/run/media/bert/280AC22E0AF59495/code/topcoder/TCO2016Rnd1CLevel1SumFullSet/SumFullSetScala" />
+            <option value="/run/media/bert/280AC22E0AF59495/code/topcoder/TCO2016Rnd1CLevel1SumFullSet/SumFullSetScala/project" />
+          </set>
+        </option>
+        <option name="resolveClassifiers" value="false" />
+        <option name="sbtVersion" value="0.13.11" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
